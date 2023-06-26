@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background: #4a465b;
+}
+
+.contenedor {
+    width: 90%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+header {
+    background: #333;
+}
+
+header nav {
+    width: ;
+}
+
+header nav ul {
+    list-style: none;
+    overflow: hidden;
+}
+
+header nav ul li {
+    float: left;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    display: inline-block;
+    color: #000;
+    padding: 15px 20px;
+}
